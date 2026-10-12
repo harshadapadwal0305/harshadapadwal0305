@@ -69,7 +69,7 @@ An end-to-end machine learning application that predicts insurance premiums usin
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/harshada-padwal-12b79b41b/)
 
 ---
 
